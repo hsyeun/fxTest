@@ -20,6 +20,7 @@ public class MainApp extends Application {
         this.primaryStage.setTitle("AddressApp");
 
         initRootLayout();
+        initRootLayout();
 
         showPersonOverview();
     }
